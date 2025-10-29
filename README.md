@@ -91,14 +91,8 @@ These insights can help the music store:
 
 ---
 
-## 🙌 Credits
-
-Inspired by [this SQL tutorial](https://youtu.be/VFIuIjswMKM).  
-You are welcome to use this dataset and analysis as a learning resource or base for your own SQL projects.
-
----
-
 ⭐ **If you found this project helpful, don’t forget to give it a star!**  
 Made with ❤️ by [Nikita Singh](https://github.com/nikitasingh4)
+
 
 
