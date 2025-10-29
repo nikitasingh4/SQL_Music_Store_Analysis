@@ -1,4 +1,4 @@
-# 🎵 SQL Music Store Analysis
+<h1 align="center">SQL_Music_Store_Analysis</h1> 
 
 Analyze business performance of an online music store using **SQL** — uncovering insights about top genres, artists, tracks, and customer purchasing trends.
 
@@ -103,3 +103,4 @@ You are welcome to use this dataset and analysis as a learning resource or base 
 
 ⭐ **If you found this project helpful, don’t forget to give it a star!**  
 Made with ❤️ by [Nikita Singh](https://github.com/nikitasingh4)
+
