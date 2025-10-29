@@ -26,9 +26,6 @@ This project explores a music store’s dataset using SQL queries to analyze:
 - **Average pricing** and **purchase trends**  
 - **Customer demographics** and **regional sales performance**
 
-You can read the detailed article here:  
-🔗 [Full Project Explanation](https://avishek-choudhary.github.io/projects/Music%20Store.html)
-
 ---
 
 ## ⚙️ Installation
@@ -103,4 +100,5 @@ You are welcome to use this dataset and analysis as a learning resource or base 
 
 ⭐ **If you found this project helpful, don’t forget to give it a star!**  
 Made with ❤️ by [Nikita Singh](https://github.com/nikitasingh4)
+
 
